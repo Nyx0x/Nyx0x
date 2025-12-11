@@ -21,30 +21,6 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 ### 🛠️ Tecnologias que estudo atualmente
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-<img title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img title="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img title="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img title="SASS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-<img title="jQuery" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-</div>
-
----
-
-
-### 🛠️ Linguagens e Tecnologias em aprendizado
-
 <img 
     align="left" 
     alt="HTML"
@@ -165,36 +141,81 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 ## 
 
-### 🧠 Conceitos & Ferramentas em Segurança da Informação
+### 🧠 Segurança da Informação
 
-  <a href="#" title="Linux">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-    alt="Linux"
-    width="30px"
-    style="padding-right:10px;"
-  />
-</a>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
 
- <a href="#" title="Bash">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-    alt="Bash"
-    width="30px"
-    style="padding-right:10px;"
-  />
-</a>
+<!-- Linux -->
+<img 
+  title="Linux" 
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+/>
 
+<!-- Bash -->
+<img 
+  title="Bash" 
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+/>
 
+<!-- Wireshark -->
+<img 
+  title="Wireshark" 
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"
+/>
 
-<br><br>
+<!-- Splunk -->
+<img 
+  title="Splunk" 
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg"
+/>
 
+<!-- Network Traffic Analysis -->
+<img 
+  title="Network Traffic Analysis" 
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg"
+/>
 
+<!-- CIA Triad -->
+<img 
+  title="CIA Principles" 
+  width="35px" 
+  src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+/>
 
-🚩 Também possuo familiaridade com ferramentas como **Wireshark**, **Splunk**, práticas de **resposta a incidentes**, **análise de tráfego de rede**, **princípios de segurança da informação (CIA)** e **defesa de sistemas operacionais**.
-</p>
-<br><br><br>
+<!-- Incident Response -->
+<img 
+  title="Incident Response" 
+  width="35px" 
+  src="https://cdn-icons-png.flaticon.com/512/10650/10650063.png"
+/>
+
+<!-- Hardening / System Defense -->
+<img 
+  title="System Hardening" 
+  width="35px" 
+  src="https://cdn-icons-png.flaticon.com/512/1048/1048948.png"
+/>
+
+</div>
 
 ---
 
+Ferramentas e conceitos que estudo/possuo familiaridade:
 
+- Linux & Bash  
+- Wireshark  
+- Splunk  
+- Análise de tráfego de rede  
+- Princípios CIA  
+- Resposta a incidentes  
+- Hardening e Defesa de Sistemas Operacionais  
+
+
+---
+
+> _“Construo, quebro, entendo, reforço.”_  
