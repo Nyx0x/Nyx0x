@@ -141,53 +141,10 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 ## 
 
-### 🧠 Segurança da Informação
+### 🧠 Conceitos & Ferramentas em Segurança da Informação 
 
-### 🔧 Ferramentas e Conceitos
-
-<p align="left">
-
-<!-- Linux -->
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</span>
-
-<!-- Bash -->
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-</span>
-
-<!-- Wireshark (ícone alternativo estável) -->
-<span>
-  <img src="https://raw.githubusercontent.com/Heholord/wireshark-icons/master/wireshark.svg" width="40" />
-</span>
-
-<!-- Splunk (ícone alternativo estável) -->
-<span>
-  <img src="https://raw.githubusercontent.com/alinaciuysal/splunk-icon/main/splunk.png" width="40" />
-</span>
-
-<!-- Network Traffic Analysis -->
-<span>
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="40" />
-</span>
-
-<!-- CIA Principles -->
-<span>
-  <img src="https://cdn-icons-png.flaticon.com/512/3039/3039381.png" width="40" />
-</span>
-
-<!-- Incident Response -->
-<span>
-  <img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" width="40" />
-</span>
-
-<!-- Hardening -->
-<span>
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" />
-</span>
-
-</p>
+<a href="#" title="Linux"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" /> 
+</a> <a href="#" title="Bash"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="30px" style="padding-right:10px;" /> </a> <br><br>
 
 
 ---
