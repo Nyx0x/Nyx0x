@@ -1,19 +1,47 @@
 # 👾 Nyx0x
 
-**`Desenvolvedora Full Stack em Formação | Estudante de Cibersegurança`**
+**`Full Stack Developer em formação • Cybersecurity Enthusiast`**
 
-Podem me chamar de Nyx. Sou uma desenvolvedora Full Stack em formação, com foco em aplicações seguras e apaixonada por Cibersegurança. Atualmente, estou estudando Desenvolvimento Web (Front-End e Back-End) e iniciando minha jornada em Segurança da Informação, buscando unir perfomance com proteção digital.
-
-Cursos:
->FreeCodaCamp - Web development e JavaScript
-
->Harvard - CS50's Introduction to Cybersecurity
-
->Palo Alto - Network Security Fundamentals
-
->Cisco Networking Academy - CyberOps Associate
+Podem me chamar de Nyx. Caminho entre o desenvolvimento e a segurança — construo, quebro, entendo e reforço.  
+Estudo programação e cibersegurança por conta própria, buscando unir performance, estrutura e proteção digital.
 
 ---
+
+### 🎓 Formação & Certificações Relevantes
+
+- **Harvard — CS50’s Introduction to Cybersecurity**
+- **Palo Alto — Network Security Fundamentals**
+- **Cisco — CyberOps Associate (em andamento)**
+- **Cisco — Exame de Trilha de Técnico em Redes**
+- **Cisco — Gerenciamento de Ameaças Cibernéticas**
+- **Cisco — CCNA: Introdução às Redes**
+- **freeCodeCamp — Responsive Web Design**
+
+---
+
+### 🛠️ Tecnologias que estudo atualmente
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<img title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img title="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img title="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img title="SASS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+<img title="jQuery" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+</div>
+
+---
+
 
 ### 🛠️ Linguagens e Tecnologias em aprendizado
 
