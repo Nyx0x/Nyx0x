@@ -143,65 +143,52 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 ### 🧠 Segurança da Informação
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+### 🔧 Ferramentas e Conceitos
+
+<p align="left">
 
 <!-- Linux -->
-<img 
-  title="Linux" 
-  width="35px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-/>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</span>
 
 <!-- Bash -->
-<img 
-  title="Bash" 
-  width="35px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-/>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+</span>
 
-<!-- Wireshark -->
-<img 
-  title="Wireshark" 
-  width="35px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"
-/>
+<!-- Wireshark (ícone alternativo estável) -->
+<span>
+  <img src="https://raw.githubusercontent.com/Heholord/wireshark-icons/master/wireshark.svg" width="40" />
+</span>
 
-<!-- Splunk -->
-<img 
-  title="Splunk" 
-  width="35px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg"
-/>
+<!-- Splunk (ícone alternativo estável) -->
+<span>
+  <img src="https://raw.githubusercontent.com/alinaciuysal/splunk-icon/main/splunk.png" width="40" />
+</span>
 
 <!-- Network Traffic Analysis -->
-<img 
-  title="Network Traffic Analysis" 
-  width="35px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg"
-/>
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="40" />
+</span>
 
-<!-- CIA Triad -->
-<img 
-  title="CIA Principles" 
-  width="35px" 
-  src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
-/>
+<!-- CIA Principles -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/3039/3039381.png" width="40" />
+</span>
 
 <!-- Incident Response -->
-<img 
-  title="Incident Response" 
-  width="35px" 
-  src="https://cdn-icons-png.flaticon.com/512/10650/10650063.png"
-/>
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" width="40" />
+</span>
 
-<!-- Hardening / System Defense -->
-<img 
-  title="System Hardening" 
-  width="35px" 
-  src="https://cdn-icons-png.flaticon.com/512/1048/1048948.png"
-/>
+<!-- Hardening -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" />
+</span>
 
-</div>
+</p>
+
 
 ---
 
