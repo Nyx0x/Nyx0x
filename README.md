@@ -43,7 +43,7 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 - **Defesa:** Hardening, CIA Triad, Incident Response.
 - **Análise:** Tráfego de Rede (Wireshark), Logs (Splunk).
-- **Web:** HTML5/CSS3 (Estrutural).
+- **Interface:** XAML (Avalonia/WPF), HTML5/CSS3 (Estrutural).
 
 
 ---
