@@ -20,77 +20,30 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 
 ---
 
-### 🛠️ Tecnologias que estudo e utilizo atualmente
+### 🛠️ Stack Principal (Dev & Sec)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div style="display: inline_block">
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Avalonia" height="40" width="40" src="https://github.com/AvaloniaUI/Avalonia/raw/master/assets/AvaloniaLogo.ico" title="Avalonia UI" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+  <img align="center" alt="Wireshark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" />
+  <img align="center" alt="Splunk" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+</div>
 
 <br/>
-<br/>
 
+### 🧠 Conceitos & Estratégias
 
-
-## 
-
-### 🧠 Conceitos & Ferramentas 
-
-<a href="#" title="Linux"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" /> 
-</a> <a href="#" title="Bash"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="30px" style="padding-right:10px;" /> </a> 
-<a href="#" title="Linux"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" /> 
-
-
-<br><br>
-
-
----
-
-Ferramentas e conceitos que estudo/possuo familiaridade:
-
-- Linux & Bash  
-- Wireshark  
-- Splunk  
-- Análise de tráfego de rede  
-- Princípios CIA  
-- Resposta a incidentes  
-- Hardening e Defesa de Sistemas Operacionais  
+- **Defesa:** Hardening, CIA Triad, Incident Response.
+- **Análise:** Tráfego de Rede (Wireshark), Logs (Splunk).
+- **Web:** HTML5/CSS3 (Estrutural).
 
 
 ---
