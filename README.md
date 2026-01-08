@@ -11,7 +11,7 @@ Atualmente construindo minha base como **Software Engineer**, especializando-me 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World%22)%3B;Focus:+Backend+Engineering+%26+Security;Learning:+C%23,+.NET,+System+Architecture;Analysis:+Wireshark,+Splunk,+Logs;Status:+Building+Secure+Systems..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=650&lines=Console.WriteLine(%22Hello+World%22)%3B;Focus:+Backend+Engineering+%26+Security;Learning:+C%23,+.NET,+System+Architecture;Analysis:+Wireshark,+Splunk,+Logs;Status:+Building+Secure+Systems..." alt="Typing SVG" />
   </a>
 </div>
 
