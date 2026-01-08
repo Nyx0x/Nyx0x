@@ -1,43 +1,58 @@
 # 👾 Nyx0x
 
-**`Full Stack Developer em formação • Cybersecurity Enthusiast`**
+**`Backend robusto, Segurança por padrão.`**
 
-Podem me chamar de Nyx. Caminho entre o desenvolvimento e a segurança — construo, quebro, entendo e reforço.  
-Estudo programação e cibersegurança por conta própria, buscando unir performance, estrutura e proteção digital.
-
----
-
-### 🎓 Formação & Certificações Relevantes
-
-- **Bootcamp DIO - TIVIT - .Net com GitHub Copilot**
-- **Harvard — CS50’s Introduction to Cybersecurity**
-- **Palo Alto — Network Security Fundamentals**
-- **Cisco — CyberOps Associate (em andamento)**
-- **Cisco — Exame de Trilha de Técnico em Redes**
-- **Cisco — Gerenciamento de Ameaças Cibernéticas**
-- **Cisco — CCNA: Introdução às Redes**
-- **freeCodeCamp — Responsive Web Design**
+Podem me chamar de Nyx. Caminho entre o desenvolvimento e a segurança.
+Atualmente construindo minha base como **Software Engineer**, especializando-me em **Backend (.NET/C#)** sem abandonar minha raiz em **Cibersegurança** para unir performance, estrutura e proteção digital.
 
 ---
 
-### 🛠️ Stack Principal (Dev & Sec)
+### 📟 Console Output
 
-<div style="display: inline_block">
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Avalonia" height="40" width="40" src="https://github.com/AvaloniaUI/Avalonia/raw/master/assets/AvaloniaLogo.ico" title="Avalonia UI" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-  <img align="center" alt="Wireshark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" />
-  <img align="center" alt="Splunk" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World%22)%3B;Focus:+Backend+Engineering+%26+Security;Learning:+C%23,+.NET,+System+Architecture;Analysis:+Wireshark,+Splunk,+Logs;Status:+Building+Secure+Systems..." alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+Aqui não tem enfeite. É o que eu uso para construir (e proteger) o sistema.
+
+| **Backend & Core (Foco Atual)** | **SecOps & Infra** | **Interface & Estrutura** |
+| :--- | :--- | :--- |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Avalonia](https://img.shields.io/badge/Avalonia-B73934?style=for-the-badge&logo=avalonia&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-16796F?style=for-the-badge&logo=wireshark&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | *XAML / WPF Basics* |
+
+#### 🔮 Loading Modules (Próximos Passos)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🚧 Projetos em Destaque
+
+**🦉 [Argos](https://github.com/Nyx0x/Argos)**
+> *Um assistente pessoal desktop inteligente e adaptativo. Projetado para evoluir de um gerenciador de tarefas para um orquestrador de rotina baseado em IA, capaz de analisar métricas de produtividade, gerenciar notificações em tempo real e realizar realocação dinâmica de horários (re-routing) diante de imprevistos, otimizando o fluxo de trabalho do usuário.*
+
+> *Techs: C#, .NET, Avalonia UI, ReactiveUI (futuro), JSON, SQLite (futuro), Python, Python.NET, LiveCharts2, Native Notifications.*
+
+---
+
+### 📜 Formação & Certificações Relevantes
+
+- 🛡️ **Cisco CyberOps Associate** *(Em andamento)*
+- 💻 **.Net com GitHub Copilot** *(DIO/TIVIT)*
+- 🎓 **CS50’s Intro to Cybersecurity** *(Harvard)*
+- 🔒 **Palo Alto Network Security Fundamentals**
+- 🌐 **CCNA: Introdução às Redes** *(Cisco)*
+- 🕵️ **Gerenciamento de Ameaças Cibernéticas** *(Cisco)*
+
+
+---
 
 ### 🧠 Conceitos & Estratégias
 
@@ -45,7 +60,11 @@ Estudo programação e cibersegurança por conta própria, buscando unir perform
 - **Análise:** Tráfego de Rede (Wireshark), Logs (Splunk).
 - **Interface:** XAML (Avalonia/WPF), HTML5/CSS3 (Estrutural).
 
+---
+
 
 ---
 
-> _“Construo, quebro, entendo, reforço.”_  
+<div align="center">
+  <sub><i>“Construo, quebro, entendo, reforço.”</i></sub>
+</div>
