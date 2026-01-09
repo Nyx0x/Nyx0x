@@ -7,6 +7,14 @@ Atualmente construindo minha base como **Software Engineer**, especializando-me 
 
 ---
 
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyx0x/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adraude0x)
+
+
+---
+
 ### 📟 Console Output
 
 <div align="center">
