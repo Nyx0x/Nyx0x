@@ -27,7 +27,7 @@ Atualmente construindo minha base como **Software Engineer**, especializando-me 
 
 ### 🛠️ Tech Stack & Arsenal
 
-Aqui não tem enfeite. É o que eu uso para construir (e proteger) o sistema.
+Aqui é o que eu uso para construir (e proteger) o sistema.
 
 | **Backend & Core (Foco Atual)** | **SecOps & Infra** | **Interface & Estrutura** |
 | :--- | :--- | :--- |
