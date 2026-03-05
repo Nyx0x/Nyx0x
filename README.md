@@ -29,12 +29,12 @@ Atualmente construindo minha base como **Software Engineer**, especializando-me 
 
 Aqui é o que eu uso para construir (e proteger) o sistema.
 
-| **Backend & Core (Foco Atual)** | **SecOps & Infra** | **Interface & Estrutura** |
+| **Backend & Core (Foco Atual)** | **System & Recon** | **Interface & Estrutura** |
 | :--- | :--- | :--- |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Avalonia](https://img.shields.io/badge/Avalonia-B73934?style=for-the-badge&logo=avalonia&logoColor=white) |
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-16796F?style=for-the-badge&logo=wireshark&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | *XAML / WPF Basics* |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![OSINT](https://img.shields.io/badge/OSINT-302D41?style=for-the-badge&logo=hackerone&logoColor=white) | *XAML / WPF Basics* |
 
 #### 🔮 Loading Modules (Próximos Passos)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
