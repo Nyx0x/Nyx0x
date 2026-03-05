@@ -45,7 +45,7 @@ Aqui é o que eu uso para construir (e proteger) o sistema.
 
 **🦉 [Argos](https://github.com/Nyx0x/Argos)**
 > *Um centro de comando pessoal com arquitetura modular. Projetado para unificar um core robusto de produtividade diária com futuras ferramentas de OSINT (Inteligência de Fontes Abertas). O objetivo é evoluir de um gerenciador de tarefas para um assistente investigativo e adaptativo, integrando automação de scripts e cruzamento de dados.*
-
+>
 > *Techs: C#, .NET 8, Avalonia UI, JSON. (Roadmap: Python, Web Scraping, MongoDB, OSINT APIs).*
 
 ---
@@ -65,13 +65,13 @@ Aqui é o que eu uso para construir (e proteger) o sistema.
 ### 🧠 Conceitos & Estratégias
 
 - **Defesa:** Hardening, CIA Triad, Incident Response.
-- **Análise:** Tráfego de Rede (Wireshark), Logs (Splunk).
+- **Análise:** Tráfego de Rede, Logs.
 - **Interface:** XAML (Avalonia/WPF), HTML5/CSS3 (Estrutural).
+- **Segurança:** OWASP Top 10, Modelagem de Ameaças, Criptografia Básica.
+- **Desenvolvimento:** SOLID (em progresso), Arquitetura MVC/MVVM, Clean Code.
 
 ---
 
-
----
 
 <div align="center">
   <sub><i>“Construo, quebro, entendo, reforço.”</i></sub>
