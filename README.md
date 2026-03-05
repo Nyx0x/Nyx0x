@@ -44,9 +44,9 @@ Aqui é o que eu uso para construir (e proteger) o sistema.
 ### 🚧 Projetos em Destaque
 
 **🦉 [Argos](https://github.com/Nyx0x/Argos)**
-> *Um assistente pessoal desktop inteligente e adaptativo. Projetado para evoluir de um gerenciador de tarefas para um orquestrador de rotina baseado em IA, capaz de analisar métricas de produtividade, gerenciar notificações em tempo real e realizar realocação dinâmica de horários (re-routing) diante de imprevistos, otimizando o fluxo de trabalho do usuário.*
+> *Um centro de comando pessoal com arquitetura modular. Projetado para unificar um core robusto de produtividade diária com futuras ferramentas de OSINT (Inteligência de Fontes Abertas). O objetivo é evoluir de um gerenciador de tarefas para um assistente investigativo e adaptativo, integrando automação de scripts e cruzamento de dados.*
 
-> *Techs: C#, .NET, Avalonia UI, ReactiveUI (futuro), JSON, SQLite (futuro), Python, Python.NET, LiveCharts2, Native Notifications.*
+> *Techs: C#, .NET 8, Avalonia UI, JSON. (Roadmap: Python, Web Scraping, MongoDB, OSINT APIs).*
 
 ---
 
