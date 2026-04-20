@@ -48,7 +48,7 @@ Here is what I use to build (and protect) the system.
 > *Techs: C#, .NET 8, Avalonia UI, JSON. (Roadmap: Python, Web Scraping, MongoDB, OSINT APIs).*
 
 
-**🌑 [V.A.N.E.](https://github.com/Nyx0x/VANE)**
+**🌑 [V.A.N.E.](https://github.com/Nyx0x/V.A.N.E)**
 > *Virtual Assistant & Network Entity. A modular sentinel system with persistent long-term memory and a dynamic temperament engine. V.A.N.E. evolves through user interaction, integrating computer vision and local RAG to bridge the gap between human needs and terminal efficiency.*
 > 
 > *Techs: Python, .NET Core, ChromaDB, SQLite, OpenCV.*
