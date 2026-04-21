@@ -49,7 +49,7 @@ Here is what I use to build (and protect) the system.
 
 
 **🌑 [V.A.N.E.](https://github.com/Nyx0x/V.A.N.E)**
-> *Virtual Assistant & Network Entity. A modular sentinel system with persistent long-term memory and a dynamic temperament engine. V.A.N.E. evolves through user interaction, integrating computer vision and local RAG to bridge the gap between human needs and terminal efficiency.*
+> *Virtual Assistant & Network Entity. A modular sentinel system with persistent long-term memory and a dynamic temperament engine. V.A.N.E. evolves through user interaction, integrating computer vision and local RAG to bridge the gap between human needs and terminal efficiency, continuously adapts via behavioral heuristics.*
 > 
 > *Techs: Python, .NET Core, ChromaDB, SQLite, OpenCV.*
 > 
