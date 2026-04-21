@@ -43,7 +43,7 @@ Here is what I use to build (and protect) the system.
 ### 🚧 Featured Projects
 
 **🦉 [Argos](https://github.com/Nyx0x/Argos)**
-> *A modular personal command center. Designed to unify a robust daily productivity core with future OSINT tools. The goal is to evolve from a task manager to an investigative and adaptive assistant, integrating script automation and data cross-referencing.*
+> *A modular personal command center. Designed to unify a robust daily productivity core with future OSINT tools. Engineered to evolve from a task manager to an investigative and adaptive assistant, integrating script automation and data cross-referencing.*
 > 
 > *Techs: C#, .NET 8, Avalonia UI, JSON. (Roadmap: Python, Web Scraping, MongoDB, OSINT APIs).*
 
