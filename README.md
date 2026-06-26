@@ -3,7 +3,7 @@
 **`Robust Backend, Security by Default.`**
 
 You can call me Nyx. I walk the line between development and security. 
-I'm a .NET Developer & Cybersecurity student. **Better at writing code than speaking, but always debugging both.** Currently building my foundation as a **Software Engineer** specializing in **Backend (.NET/C#)**, without abandoning my roots in **Cybersecurity**, to unite performance, structure, and digital protection.
+I'm a .NET Developer & Cybersecurity student. Currently building my foundation as a **Software Engineer** specializing in **Backend (.NET/C#)**, without abandoning my roots in **Cybersecurity**, to unite performance, structure, and digital protection.
 
 ---
 
